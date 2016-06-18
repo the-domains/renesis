@@ -1,0 +1,14 @@
+layout_spectrum: 0.5595745
+color:
+  saturation: 0.540307
+  lightness: 0.7638298
+  brandStrength: 0.1914894
+  brandColors:
+    - '#DBE6F9'
+    - '#BAC9E6'
+    - '#070709'
+    - '#363C48'
+    - '#7C7B78'
+  rhythmicContrast: 0
+typography_spectrum: 0.09787234
+name: Renesis
